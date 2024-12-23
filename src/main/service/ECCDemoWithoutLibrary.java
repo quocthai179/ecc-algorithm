@@ -1,3 +1,5 @@
+package main.service;
+
 public class ECCDemoWithoutLibrary {
 
     public static void main(String[] args) {
